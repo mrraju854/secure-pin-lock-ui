@@ -1,23 +1,18 @@
-# 🔒 Secure PIN Lock Screen UI
+# 🔒 Secure PIN Lock Screen  
 
-A modern and interactive **App Lock Screen UI** built using **HTML, CSS, and JavaScript**.  
-This project simulates a real mobile lock screen with PIN setup and unlock functionality.
+A modern PIN lock screen built using HTML, CSS, and JavaScript with smooth animations and interactive UI.
 
----
+## 🚀 Features  
+- Set and verify custom PIN  
+- Shake animation on wrong PIN  
+- Glassmorphism design  
+- Fully responsive layout  
 
-## 🚀 Live Features
+## 🛠 Tech Stack  
+HTML5, CSS3, JavaScript  
 
-✨ Set your own PIN  
-🔓 Unlock with saved PIN  
-❌ Wrong PIN → Shake Animation  
-🎨 Animated Gradient Background  
-📱 Fully Responsive (All Devices)  
-💎 Glassmorphism UI Design  
+## 🌐 Live Demo  
+https://secure-pin-lock.netlify.app/  
 
----
-
-## 🖥️ Tech Stack
-
-- HTML5  
-- CSS3 (Animations + Glass UI)  
-- JavaScript (DOM + Logic)
+## 🎯 Purpose  
+Showcases UI design, animations, and frontend logic for a real-world lock screen experience.
